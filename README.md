@@ -15,6 +15,8 @@
 12. [Contributing](#contributing)
 13. [License](#license)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rose-deasha/Question.git/HEAD)
+
 ---
 
 ## Overview
