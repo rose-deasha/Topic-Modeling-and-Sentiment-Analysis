@@ -1,8 +1,9 @@
+re
 numpy
+pandas
 matplotlib
 seaborn
+nltk
 scikit-learn
 wordcloud
-nltk
 gensim
-jupyter
